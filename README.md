@@ -1,11 +1,11 @@
-### This script creates a directory structure on the desktop, initializes a virtual environment, and prompts the user to install packages.
+## This script creates a directory structure on the desktop, initializes a virtual environment, and prompts the user to install packages.
 
-## How to use
+### How to use
 
 1. Run the script using Python (e.g., `python script_name.py`).
 2. Follow the prompts to install packages.
 
-## What the script does
+### What the script does
 
 * Creates a "work" directory on the desktop if it doesn't exist.
 * Creates a sub-directory with the current month and day.
